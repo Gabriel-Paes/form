@@ -19,7 +19,7 @@ body {
 .input-box {
     position: relative;
     height: 160px;
-    max-width: 560px;
+    width: 560px;
     background: #fff;
     padding: 30px;
     border-radius: 6px;
